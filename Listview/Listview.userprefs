@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Listview\Listview.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Listview\MainActivity.cs" Line="30" Column="20" />
+      <File FileName="Listview\CountryAdapter.cs" Line="46" Column="4" />
+      <File FileName="Listview\Country.cs" Line="17" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Listview" expanded="True">
+            <Node name="Listview" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="Country.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Listview" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Listview AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
