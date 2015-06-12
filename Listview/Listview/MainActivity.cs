@@ -13,33 +13,16 @@ namespace Listview
 	[Activity (Label = "Listview", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
-		private List<Country> myCountryList;
-		private ListView mListView;
-
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
 
 			SetContentView (Resource.Layout.Main);
 		
-			mListView = FindViewById<ListView>(Resource.Id.myListView);
 
-			Country Vietnam;
-			Vietnam.Name = "Vietnam";
-			Vietnam.Capital = "Hanoi";
-			Vietname.Flag = 
-	
-			myCountryList = new List<Country> ();
-			myCountryList.Add(
-			myCountryList.Add("Australia");
-			myCountryList.Add ("Canada");
-			myCountryList.Add("China");
-			myCountryList.Add("Japan");
-			myCountryList.Add("Belgium");
-
-			ListAdapter = new CountryAdapter(this, items);
-
-			mListView.Adapter = adapter;
+			var countriesAdapter = new CountryAdapter (this);
+			var countriesListView = FindViewById<ListView> (Resource.Id.CountryViewList);
+			countriesListView.Adapter = countriesAdapter;
 		}
 	}
 }

@@ -1,0 +1,9 @@
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\bin\Debug\Listview.UITests.dll
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\bin\Debug\Listview.UITests.pdb
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\bin\Debug\nunit.framework.dll
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\bin\Debug\nunit.framework.xml
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\obj\Debug\Listview.UITests.csprojResolveAssemblyReference.cache
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\obj\Debug\Listview.UITests.dll
+C:\Users\phongpham\Documents\Projects\Listview\Listview.UITests\obj\Debug\Listview.UITests.pdb

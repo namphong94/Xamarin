@@ -65,6 +65,11 @@
     <AndroidResource Include="Resources\drawable-xxxhdpi\Icon.png" />
     <AndroidResource Include="Resources\layout\CountryListItem.xml" />
     <AndroidResource Include="Resources\drawable\b31.jpg" />
+    <AndroidResource Include="Resources\drawable\belgium.jpg" />
+    <AndroidResource Include="Resources\drawable\Canada.jpg" />
+    <AndroidResource Include="Resources\drawable\china.jpg" />
+    <AndroidResource Include="Resources\drawable\japan.jpg" />
+    <AndroidResource Include="Resources\drawable\australia.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

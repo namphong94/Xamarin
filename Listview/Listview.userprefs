@@ -1,35 +1,13 @@
 ﻿<Properties StartupItem="Listview\Listview.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Listview\CountryAdapter.cs">
     <Files>
-      <File FileName="Listview\MainActivity.cs" Line="30" Column="20" />
-      <File FileName="Listview\CountryAdapter.cs" Line="46" Column="4" />
-      <File FileName="Listview\Country.cs" Line="17" Column="22" />
+      <File FileName="Listview\MainActivity.cs" Line="28" Column="2" />
+      <File FileName="Listview\CountryAdapter.cs" Line="106" Column="23" />
+      <File FileName="Listview\Country.cs" Line="1" Column="1" />
+      <File FileName="Listview\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="Listview\Resources\Resource.designer.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Listview" expanded="True">
-            <Node name="Listview" expanded="True">
-              <Node name="Assets" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
-                <Node name="layout" expanded="True" />
-              </Node>
-              <Node name="Country.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State name="__root__">
-          <Node name="Listview" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

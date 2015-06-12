@@ -45,10 +45,28 @@ namespace Listview
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int b31 = 2130837504;
+			public const int australia = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int Icon = 2130837505;
+			public const int b31 = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int belgium = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int Canada = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int china = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int Icon = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int japan = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int monoandroidsplash = 2130837511;
 			
 			static Drawable()
 			{
@@ -63,17 +81,17 @@ namespace Listview
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050002
-			public const int Capital = 2131034114;
+			// aapt resource value: 0x7f060002
+			public const int Capital = 2131099650;
 			
-			// aapt resource value: 0x7f050000
-			public const int FlagImage = 2131034112;
+			// aapt resource value: 0x7f060001
+			public const int CountryName = 2131099649;
 			
-			// aapt resource value: 0x7f050001
-			public const int Name = 2131034113;
+			// aapt resource value: 0x7f060003
+			public const int CountryViewList = 2131099651;
 			
-			// aapt resource value: 0x7f050003
-			public const int myListView = 2131034115;
+			// aapt resource value: 0x7f060000
+			public const int FlagImage = 2131099648;
 			
 			static Id()
 			{
@@ -119,6 +137,22 @@ namespace Listview
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f050000
+			public const int Mono_Android_Theme_Splash = 2131034112;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
 			{
 			}
 		}
